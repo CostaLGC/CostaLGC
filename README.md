@@ -9,6 +9,8 @@ CI/CD: GitHub Actions, GitLab CI
 IaC: Terraform  
 Segurança: Firewall e SAST  
 Linguagens: Python, Bash  
+
+
 📚 Objetivos:  
 Estou focado em me tornar uma referência na área de DevOps e segurança, através de projetos práticos, certificações, e participação ativa em comunidades técnicas.  
 
