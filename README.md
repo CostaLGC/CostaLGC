@@ -3,12 +3,12 @@ Sou um profissional dedicado ao desenvolvimento de soluções em DevOps e segura
 
 
 🛠️ Habilidades e Ferramentas:  
-Cloud: AWS, Azure  
-Containers: Docker, Kubernetes  
-CI/CD: GitHub Actions, GitLab CI  
-IaC: Terraform  
-Segurança: Firewall e SAST  
-Linguagens: Python, Bash  
+- Cloud: AWS, Azure  
+- Containers: Docker, Kubernetes  
+- CI/CD: GitHub Actions, GitLab CI  
+- IaC: Terraform  
+- Segurança: Firewall e SAST  
+- Linguagens: Python, Bash  
 
 
 📚 Objetivos:  
