@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!)](https://git.io/typing-svg)
+<br>
+
 ## Olá, sou Luiz
 Sou um profissional dedicado ao desenvolvimento de soluções em DevOps e segurança, buscando continuamente melhorar a eficiência e a segurança dos processos de TI. Com uma formação em Engenharia Mecatrônica, encontrei na filosofia DevOps a paixão por automatizar, integrar e otimizar ambientes de TI.
 
