@@ -39,3 +39,8 @@ Projeto 2: Descrição breve do projeto e seu impacto.
 LinkedIn
 Blog/Tutorials
 -->
+
+### 🤝 Contato:
+<a href="https://www.linkedin.com/in/luizgustavo-c/" target="_blank">
+  <img alt="linkedin" src="https://img.shields.io/badge/-clintonbrito-0077B5?style=flat-square&logo=linkedin"/>
+</a>
