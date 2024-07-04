@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=Hello+there!)](https://git.io/typing-svg)
 <br>
 
-### 🕵️ About me:
+##%# 🕵️ About me:
 Sou um profissional dedicado ao desenvolvimento de soluções em DevOps e segurança, buscando continuamente melhorar a eficiência e a segurança dos processos de TI. Com uma formação em Engenharia Mecatrônica, encontrei na filosofia DevOps a paixão por automatizar, integrar e otimizar ambientes de TI.
 
 
@@ -40,7 +40,7 @@ LinkedIn
 Blog/Tutorials
 -->
 
-### 🤝 Contato:
+#%## 🤝 Contato:
 <a href="https://www.linkedin.com/in/luizgustavo-c/" target="_blank">
   <img alt="linkedin" src="https://img.shields.io/badge/-LuizGustavo-0077B5?style=flat-square&logo=linkedin"/>
 </a>
