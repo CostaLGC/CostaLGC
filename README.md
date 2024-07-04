@@ -5,7 +5,7 @@
 Sou um profissional dedicado ao desenvolvimento de soluções em DevOps e segurança, buscando continuamente melhorar a eficiência e a segurança dos processos de TI. Com uma formação em Engenharia Mecatrônica, encontrei na filosofia DevOps a paixão por automatizar, integrar e otimizar ambientes de TI.
 
 
-🛠️ **Habilidades e Ferramentas:**  
+###### 🛠️ **Habilidades e Ferramentas:**  
 - **Cloud:** AWS, Azure  
 - **Containers:** Docker, Kubernetes  
 - **CI/CD:** GitHub Actions, GitLab CI  
@@ -14,7 +14,7 @@ Sou um profissional dedicado ao desenvolvimento de soluções em DevOps e segura
 - **Linguagens:** Python, Bash  
 
 
-📚 **Objetivos:**  
+###### 📚 **Objetivos:**  
 Estou focado em me tornar uma referência na área de DevOps e segurança, através de projetos práticos, certificações, e participação ativa em comunidades técnicas.  
 
 
